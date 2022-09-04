@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# QtCreator
+.qtc*
+openGL*
+
+# Build
+build
+main
